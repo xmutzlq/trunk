@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class MarkerInfo {
 
+/**±Í«© π”√*/
 	public static final int MARKER_MAX_SIZE = 100;
 
 	private String action;
