@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<!--
+		This file contains resource definitions for style. A style is a
+		collection of named values that can be applied as a group. Here, we
+		are using a style to define a common set of XML attributes that will
+		be used in multiple tags.
+	-->
+
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
